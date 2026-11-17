@@ -1,0 +1,10 @@
+﻿ID,Kategorija (Epic),Naziv (Issue),Opis (User Story),Story Points
+US1,Upravljanje pacijentima,Registracija pacijenta,"Referent registrira nove pacijente unosom njihova imena i prezimena, datuma rođenja, kontaktnih podataka (broj mobitela i email adrese) te adrese stanovanja (prebivalište).",3
+US2,Upravljanje pacijentima,Pretraživanje i ažuriranje pacijenta,Referenti kasnije mogu naknadno pretraživati i ažurirati podatke o pacijentima u slučaju promjena.,2
+US3,Upravljanje pacijentima,Deaktivacija pacijenta,"Kada se zapis više aktivno ne koristi, deaktivira se, čime se uklanja iz zadanih rezultata pretraživanja i onemogućuje zakazivanje novih termina pregleda, ali se pritom čuvaju poveznice s prethodnim terminima pregleda i medicinskim zapisima.",1
+US4,Upravljanje pacijentima,Validacija pacijenta,"Sustav prilikom unosa podataka o pacijentima mora provoditi validaciju unesenih podataka (primjerice, datum rođenja ne može biti u budućnosti).",5
+US5,Upravljanje pacijentima,Mogući Duplikati,Provjera i detekcija mogućih duplikata koji su definirani kao pacijenti s istim imenom i datumom rođenja.,3
+US6,Upravljanje Liječnicima,Registriranje Liječnika,"Administratori registriraju liječnike unosom njihova imena i prezimena, kontaktnih podataka i medicinske specijalizacije.",3
+US7,Upravljanje Liječnicima,Pregledavanje Liječnika,,3
+US8,Upravljanje Liječnicima,Ažuriranje Liječnika,,3
+US9,Upravljanje Liječnicima,Deaktivacija liječnika,,2
